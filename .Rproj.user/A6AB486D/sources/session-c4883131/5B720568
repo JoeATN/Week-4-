@@ -3,7 +3,7 @@
     "path": "C:/Users/clair/Downloads/R_Rstudio_Rmarkdown (3).Rmd",
     "project_path": null,
     "type": "r_markdown",
-    "hash": "3447265454",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1760549332453.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,23",
+        "cursorPosition": "7,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760549473,
+    "lastKnownWriteTime": 1760549875,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760549473556,
+    "last_content_update": 1760549875555,
     "read_only": false,
     "read_only_alternatives": []
 }
